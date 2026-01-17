@@ -52,7 +52,6 @@
 import { computed, ref, watch } from "vue";
 import { isDark, parseClass, parsePt } from "@/.cool";
 import type { PassThroughProps } from "../../types";
-import { vibrate } from "@/uni_modules/cool-vibrate";
 import { useForm } from "../../hooks";
 
 defineOptions({
@@ -164,7 +163,7 @@ function onTap() {
 		emit("change", val);
 
 		// 震动
-		vibrate(1);
+		uni.$emit("cool:vibrate");
 	}
 }
 

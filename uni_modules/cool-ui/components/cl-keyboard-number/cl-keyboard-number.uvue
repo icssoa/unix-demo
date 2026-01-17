@@ -103,7 +103,6 @@ import type { PassThroughProps } from "../../types";
 import type { ClPopupProps } from "../cl-popup/props";
 import { ref, computed, watch, type PropType } from "vue";
 import { isDark, parseClass, parsePt, $t, t } from "@/.cool";
-import { vibrate } from "@/uni_modules/cool-vibrate";
 
 defineOptions({
 	name: "cl-keyboard-number"
@@ -229,9 +228,7 @@ function close() {
 // 处理键盘按键点击事件
 function onCommand(key: string) {
 	// 震动
-	try {
-		vibrate(1);
-	} catch (error) {}
+	uni.$emit("cool:vibrate");
 
 	// 确认按钮逻辑
 	if (key == "confirm" || key == "_confirm") {

@@ -51,7 +51,6 @@
 import { computed, ref, getCurrentInstance, type PropType, watch } from "vue";
 import { isNull, parsePt, uuid } from "@/.cool";
 import type { PassThroughProps } from "../../types";
-import { vibrate } from "@/uni_modules/cool-vibrate";
 
 defineOptions({
 	name: "cl-draggable"
@@ -547,7 +546,7 @@ async function onTouchStart(event: UniTouchEvent, index: number, type: string) {
 	emit("start", index);
 
 	// 震动
-	vibrate(1);
+	uni.$emit("cool:vibrate");
 
 	// 阻止事件冒泡
 	event.stopPropagation();

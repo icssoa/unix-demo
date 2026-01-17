@@ -66,7 +66,7 @@ export const useLongPress = (): UseLongPress => {
 		// @ts-ignore
 		pressTimer = setTimeout(() => {
 			// 震动
-			vibrate(1);
+			uni.$emit("cool:vibrate");
 
 			// 设置长按状态
 			isPressing.value = true;

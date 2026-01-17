@@ -91,7 +91,6 @@ import type { PassThroughProps } from "../../types";
 import type { ClPopupProps } from "../cl-popup/props";
 import { ref, computed, watch } from "vue";
 import { isDark, parseClass, parsePt, $t, t } from "@/.cool";
-import { vibrate } from "@/uni_modules/cool-vibrate";
 
 defineOptions({
 	name: "cl-keyboard-car"
@@ -211,7 +210,7 @@ function close() {
 // 处理键盘按键点击事件
 function onCommand(key: string) {
 	// 震动
-	vibrate(1);
+	uni.$emit("cool:vibrate");
 
 	// 确认按钮逻辑
 	if (key == "confirm") {

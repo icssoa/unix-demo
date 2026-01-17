@@ -11,9 +11,8 @@
 <script lang="ts" setup>
 import { t } from "@/.cool";
 import DemoItem from "../components/item.uvue";
-import { vibrate } from "@/uni_modules/cool-vibrate";
 
 function onVibrate() {
-	vibrate(1);
+	uni.$emit("cool:vibrate");
 }
 </script>

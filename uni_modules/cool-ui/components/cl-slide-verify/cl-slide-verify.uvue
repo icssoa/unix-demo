@@ -101,7 +101,6 @@
 import { computed, ref, watch, nextTick, getCurrentInstance, type PropType } from "vue";
 import { isDark, parseClass, parsePt, getUnit, random, t } from "@/.cool";
 import type { PassThroughProps } from "../../types";
-import { vibrate } from "@/uni_modules/cool-vibrate";
 
 defineOptions({
 	name: "cl-slide-verify"
@@ -327,10 +326,17 @@ function init() {
 
 // 触摸开始事件
 function onTouchStart(e: TouchEvent) {
-	if (props.disabled || isSuccess.value || isFail.value) return; // 禁用或已完成时不处理
-	isDragging.value = true; // 标记为拖动中
-	startX.value = e.touches[0].clientX; // 记录起始X坐标
-	vibrate(1); // 震动反馈
+	// 禁用或已完成时不处理
+	if (props.disabled || isSuccess.value || isFail.value) return;
+
+	// 标记为拖动中
+	isDragging.value = true;
+
+	// 记录起始X坐标
+	startX.value = e.touches[0].clientX;
+
+	// 震动反馈
+	uni.$emit("cool:vibrate");
 }
 
 // 触摸移动事件
@@ -383,7 +389,9 @@ function onTouchEnd() {
 			angle: currentAngle.value
 		});
 	}
-	vibrate(1); // 震动反馈
+
+	// 震动反馈
+	uni.$emit("cool:vibrate");
 }
 
 // 监听模式变化，重新初始化
