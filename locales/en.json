@@ -1,0 +1,2590 @@
+[
+  [
+    "SlideVerify 滑动验证",
+    "SlideVerify Slide Verification"
+  ],
+  [
+    "Animation 动画",
+    "Animation"
+  ],
+  [
+    "Router 路由",
+    "Router"
+  ],
+  [
+    "Share 分享",
+    "Share"
+  ],
+  [
+    "SelectSeat 座位选择",
+    "SelectSeat Seat Selection"
+  ],
+  [
+    "编辑地址",
+    "Edit Address"
+  ],
+  [
+    "cool-unix",
+    "cool-unix"
+  ],
+  [
+    "透明度",
+    "Transparency"
+  ],
+  [
+    "旋转角度",
+    "Rotation Angle"
+  ],
+  [
+    "水印宽度",
+    "Watermark Width"
+  ],
+  [
+    "水印高度",
+    "Watermark Height"
+  ],
+  [
+    "水平间距",
+    "Horizontal Spacing"
+  ],
+  [
+    "垂直间距",
+    "Vertical Spacing"
+  ],
+  [
+    "字体粗细",
+    "Font Weight"
+  ],
+  [
+    "图片保护",
+    "Image Protection"
+  ],
+  [
+    "正常",
+    "Normal"
+  ],
+  [
+    "加粗",
+    "Bold"
+  ],
+  [
+    "点击触发",
+    "Click to Trigger"
+  ],
+  [
+    "不同大小",
+    "Different Sizes"
+  ],
+  [
+    "不同颜色",
+    "Different Colors"
+  ],
+  [
+    "使用base64",
+    "Use base64"
+  ],
+  [
+    "没有错误提示",
+    "No Error Message"
+  ],
+  [
+    "转动图片",
+    "Rotate Image"
+  ],
+  [
+    "验证通过",
+    "Verification Passed"
+  ],
+  [
+    "验证失败",
+    "Verification Failed"
+  ],
+  [
+    "操作",
+    "Operation"
+  ],
+  [
+    "清空",
+    "Clear"
+  ],
+  [
+    "Badge 角标",
+    "Badge"
+  ],
+  [
+    "NoticeBar 通知栏",
+    "NoticeBar"
+  ],
+  [
+    "Countdown 倒计时",
+    "Countdown"
+  ],
+  [
+    "Progress 进度条",
+    "Progress"
+  ],
+  [
+    "ProgressCircle 圆形进度条",
+    "ProgressCircle"
+  ],
+  [
+    "Skeleton 骨架图",
+    "Skeleton"
+  ],
+  [
+    "LoadMore 加载更多",
+    "LoadMore"
+  ],
+  [
+    "RollingNumber 数字滚动",
+    "RollingNumber"
+  ],
+  [
+    "ActionSheet 操作菜单",
+    "ActionSheet"
+  ],
+  [
+    "Popup 弹窗",
+    "Popup"
+  ],
+  [
+    "Confirm 确认框",
+    "Confirm"
+  ],
+  [
+    "Toast 提示框",
+    "Toast"
+  ],
+  [
+    "QRCode 二维码",
+    "QRCode"
+  ],
+  [
+    "Sign 签名",
+    "Sign"
+  ],
+  [
+    "Watermark 水印",
+    "Watermark"
+  ],
+  [
+    "DayUts 日期",
+    "DayUts"
+  ],
+  [
+    "Vibrate 震动",
+    "Vibrate"
+  ],
+  [
+    "Cropper 图片裁剪",
+    "Cropper"
+  ],
+  [
+    "Canvas 画布",
+    "Canvas"
+  ],
+  [
+    "SVG 图标",
+    "SVG"
+  ],
+  [
+    "Icon 图标",
+    "Icon"
+  ],
+  [
+    "Tag 标签",
+    "Tag"
+  ],
+  [
+    "Form 表单验证",
+    "Form validation"
+  ],
+  [
+    "Input 输入框",
+    "Input"
+  ],
+  [
+    "Textarea 文本域",
+    "Textarea"
+  ],
+  [
+    "InputNumber 计数器",
+    "InputNumber"
+  ],
+  [
+    "InputOtp 口令输入",
+    "InputOtp"
+  ],
+  [
+    "Keyboard 键盘",
+    "Keyboard"
+  ],
+  [
+    "Radio 单选框",
+    "Radio"
+  ],
+  [
+    "Checkbox 多选框",
+    "Checkbox"
+  ],
+  [
+    "Switch 开关",
+    "Switch"
+  ],
+  [
+    "Rate 评分",
+    "Rate"
+  ],
+  [
+    "Slider 滑块",
+    "Slider"
+  ],
+  [
+    "Select 选择器",
+    "Select"
+  ],
+  [
+    "SelectDate 日期选择器",
+    "SelectDate"
+  ],
+  [
+    "SelectTime 时间选择器",
+    "SelectTime"
+  ],
+  [
+    "Cascader 级联选择器",
+    "Cascader"
+  ],
+  [
+    "Upload 文件上传",
+    "Upload"
+  ],
+  [
+    "Calendar 日历",
+    "Calendar"
+  ],
+  [
+    "Flex 弹性布局",
+    "Flex"
+  ],
+  [
+    "Tabs 标签页",
+    "Tabs"
+  ],
+  [
+    "Collapse 折叠面板",
+    "Collapse"
+  ],
+  [
+    "Sticky 吸顶",
+    "Sticky"
+  ],
+  [
+    "TopBar 导航栏",
+    "TopBar"
+  ],
+  [
+    "FloatView 悬浮视图",
+    "FloatView"
+  ],
+  [
+    "Footer 底部视图",
+    "Footer"
+  ],
+  [
+    "Tabbar 底部导航栏",
+    "Tabbar"
+  ],
+  [
+    "List 列表",
+    "List"
+  ],
+  [
+    "ListView 列表视图",
+    "ListView"
+  ],
+  [
+    "ListViewRefresh 列表刷新",
+    "ListViewRefresh"
+  ],
+  [
+    "Waterfall 瀑布流",
+    "Waterfall"
+  ],
+  [
+    "Banner 轮播图",
+    "Banner"
+  ],
+  [
+    "Marquee 跑马灯",
+    "Marquee"
+  ],
+  [
+    "Pagination 分页",
+    "Pagination"
+  ],
+  [
+    "Timeline 时间轴",
+    "Timeline"
+  ],
+  [
+    "Avatar 头像",
+    "Avatar"
+  ],
+  [
+    "ReadMore 查看更多",
+    "ReadMore"
+  ],
+  [
+    "Draggable 拖拽",
+    "Draggable"
+  ],
+  [
+    "FilterBar 筛选栏",
+    "FilterBar"
+  ],
+  [
+    "Tree 树形结构",
+    "Tree"
+  ],
+  [
+    "显示文本",
+    "Show Text"
+  ],
+  [
+    "快一些",
+    "Faster"
+  ],
+  [
+    "带图标",
+    "With Icon"
+  ],
+  [
+    "设置速度",
+    "Set Speed"
+  ],
+  [
+    "垂直方向",
+    "Vertical"
+  ],
+  [
+    "3秒后加载完成",
+    "Load completed after 3 seconds"
+  ],
+  [
+    "隐藏为 00 的值",
+    "Hide values that are 00"
+  ],
+  [
+    "指定天数",
+    "Specify days"
+  ],
+  [
+    "自定义模板",
+    "Custom template"
+  ],
+  [
+    "指定小时",
+    "Specify hours"
+  ],
+  [
+    "指定分钟",
+    "Specify minutes"
+  ],
+  [
+    "指定秒",
+    "Specify seconds"
+  ],
+  [
+    "完成后提示",
+    "Prompt after completion"
+  ],
+  [
+    "3秒后开始倒计时",
+    "Start countdown after 3 seconds"
+  ],
+  [
+    "结合按钮",
+    "Combine button"
+  ],
+  [
+    "购买",
+    "Purchase"
+  ],
+  [
+    "消息",
+    "Message"
+  ],
+  [
+    "结合图片",
+    "Combine image"
+  ],
+  [
+    "结合图标",
+    "Combine icon"
+  ],
+  [
+    "水印文本",
+    "Watermark text"
+  ],
+  [
+    "长度为6",
+    "Length: 6"
+  ],
+  [
+    "步进为10",
+    "Step: 10"
+  ],
+  [
+    "最小为10",
+    "Min: 10"
+  ],
+  [
+    "最大为50",
+    "Max: 50"
+  ],
+  [
+    "可以小数",
+    "Decimal allowed"
+  ],
+  [
+    "可以输入",
+    "Input allowed"
+  ],
+  [
+    "用户名",
+    "Username"
+  ],
+  [
+    "请输入用户名",
+    "Please enter your username"
+  ],
+  [
+    "邮箱",
+    "Email"
+  ],
+  [
+    "请输入邮箱地址",
+    "Please enter your email address"
+  ],
+  [
+    "动态验证",
+    "Dynamic verification"
+  ],
+  [
+    "联系人",
+    "Contact"
+  ],
+  [
+    "添加联系人",
+    "Add contact"
+  ],
+  [
+    "身高",
+    "Height"
+  ],
+  [
+    "体重",
+    "Weight"
+  ],
+  [
+    "所在地区",
+    "Region"
+  ],
+  [
+    "出生年月",
+    "Date of birth"
+  ],
+  [
+    "个人简介",
+    "Personal profile"
+  ],
+  [
+    "请输入个人简介",
+    "Please enter your personal profile"
+  ],
+  [
+    "公开状态",
+    "Public status"
+  ],
+  [
+    "底部",
+    "Bottom"
+  ],
+  [
+    "不同类型",
+    "Different Types"
+  ],
+  [
+    "成功",
+    "Success"
+  ],
+  [
+    "失败",
+    "Failure"
+  ],
+  [
+    "警告",
+    "Warning"
+  ],
+  [
+    "问题",
+    "Problem"
+  ],
+  [
+    "停止",
+    "Stop"
+  ],
+  [
+    "自定义图标",
+    "Custom Icon"
+  ],
+  [
+    "只存在一个",
+    "Only One Exists"
+  ],
+  [
+    "不同位置提示",
+    "Different Location Hint"
+  ],
+  [
+    "不同类型提示",
+    "Different Type Hint"
+  ],
+  [
+    "带图标提示",
+    "Hint with Icon"
+  ],
+  [
+    "移除其他已存在的提示",
+    "Remove Other Existing Hints"
+  ],
+  [
+    "打开弹窗",
+    "Open Popup"
+  ],
+  [
+    "设置宽度 80%",
+    "Set Width to 80%"
+  ],
+  [
+    "无头",
+    "Headless"
+  ],
+  [
+    "左侧",
+    "Left"
+  ],
+  [
+    "右侧",
+    "Right"
+  ],
+  [
+    "隐藏取消按钮",
+    "Hide Cancel Button"
+  ],
+  [
+    "自定义文本",
+    "Custom Text"
+  ],
+  [
+    "选择地区",
+    "Select Region"
+  ],
+  [
+    "绑定值",
+    "Bind Value"
+  ],
+  [
+    "下一步",
+    "Next"
+  ],
+  [
+    "确定",
+    "OK"
+  ],
+  [
+    "关闭",
+    "Close"
+  ],
+  [
+    "显示取消按钮",
+    "Show Cancel Button"
+  ],
+  [
+    "修改按钮文案",
+    "Modify Button Text"
+  ],
+  [
+    "显示绑定值",
+    "Show Bound Value"
+  ],
+  [
+    "空数据",
+    "Empty Data"
+  ],
+  [
+    "时",
+    "Hour"
+  ],
+  [
+    "时:分",
+    "HH:MM"
+  ],
+  [
+    "时:分:秒",
+    "HH:MM:SS"
+  ],
+  [
+    "标签格式化",
+    "Label Formatting"
+  ],
+  [
+    "固定开始、结束日期",
+    "Fixed Start and End Dates"
+  ],
+  [
+    "自定义快捷选项",
+    "Custom Quick Options"
+  ],
+  [
+    "只读",
+    "Read Only"
+  ],
+  [
+    "显示分数",
+    "Show Fraction"
+  ],
+  [
+    "允许半星",
+    "Allow Half Star"
+  ],
+  [
+    "换个图标",
+    "Change Icon"
+  ],
+  [
+    "纵向排列",
+    "Vertical Arrangement"
+  ],
+  [
+    "预览",
+    "Preview"
+  ],
+  [
+    "设置高度",
+    "Set Height"
+  ],
+  [
+    "毛笔效果",
+    "Brush Effect"
+  ],
+  [
+    "分享文本",
+    "Share Text"
+  ],
+  [
+    "分享图片",
+    "Share Picture"
+  ],
+  [
+    "分享文件",
+    "Share File"
+  ],
+  [
+    "分享链接",
+    "Share Link"
+  ],
+  [
+    "确认选座后将无法修改，是否确认？",
+    "Seat selection cannot be modified after confirmation. Are you sure?"
+  ],
+  [
+    "选座成功",
+    "Seat selection successful"
+  ],
+  [
+    "添加LOGO",
+    "Add LOGO"
+  ],
+  [
+    "圆角定位点",
+    "Rounded corner positioning point"
+  ],
+  [
+    "内间距",
+    "Inner spacing"
+  ],
+  [
+    "导出图片",
+    "Export Picture"
+  ],
+  [
+    "矩形",
+    "Rectangle"
+  ],
+  [
+    "点",
+    "Point"
+  ],
+  [
+    "线性",
+    "Linear"
+  ],
+  [
+    "小方格",
+    "Small square"
+  ],
+  [
+    "格式化",
+    "Format"
+  ],
+  [
+    "添加",
+    "Add"
+  ],
+  [
+    "减去",
+    "Subtract"
+  ],
+  [
+    "弹窗",
+    "Pop-up window"
+  ],
+  [
+    "确认框",
+    "Confirmation box"
+  ],
+  [
+    "提示框",
+    "Prompt box"
+  ],
+  [
+    "签名",
+    "Signature"
+  ],
+  [
+    "水印",
+    "Watermark"
+  ],
+  [
+    "图片裁剪",
+    "Image cropping"
+  ],
+  [
+    "Canvas",
+    "Canvas"
+  ],
+  [
+    "富文本",
+    "Rich text"
+  ],
+  [
+    "该功能正在开发中",
+    "This function is under development"
+  ],
+  [
+    "圆形",
+    "Circle"
+  ],
+  [
+    "组合",
+    "Combination"
+  ],
+  [
+    "基础用法",
+    "Basic usage"
+  ],
+  [
+    "自定义",
+    "Customize"
+  ],
+  [
+    "加快滚动速度",
+    "Speed up scrolling"
+  ],
+  [
+    "显示小数位数",
+    "Display decimal places"
+  ],
+  [
+    "自定义样式",
+    "Customize style"
+  ],
+  [
+    "自定义颜色",
+    "Customize color"
+  ],
+  [
+    "自定义宽度",
+    "Customize width"
+  ],
+  [
+    "不显示文本",
+    "Do not display text"
+  ],
+  [
+    "改个颜色",
+    "Change the color"
+  ],
+  [
+    "关于{name}",
+    "About {name}"
+  ],
+  [
+    "联系我们",
+    "Contact Us"
+  ],
+  [
+    "退出登录",
+    "Log Out"
+  ],
+  [
+    "确定退出登录吗？",
+    "Are you sure to log out?"
+  ],
+  [
+    "深色模式",
+    "Dark Mode"
+  ],
+  [
+    "多语言",
+    "Multi-language"
+  ],
+  [
+    "字体大小",
+    "Font Size"
+  ],
+  [
+    "访问官网",
+    "Visit the official website"
+  ],
+  [
+    "社交",
+    "Social"
+  ],
+  [
+    "帖子详情",
+    "Post Details"
+  ],
+  [
+    "商城",
+    "Mall"
+  ],
+  [
+    "商品分类",
+    "Product Categories"
+  ],
+  [
+    "商品详情",
+    "Product Details"
+  ],
+  [
+    "商品列表、筛选",
+    "Product List, Filter"
+  ],
+  [
+    "购物车",
+    "Shopping Cart"
+  ],
+  [
+    "订单列表、详情",
+    "Order List, Details"
+  ],
+  [
+    "收货地址",
+    "Delivery Address"
+  ],
+  [
+    "聊天",
+    "Chat"
+  ],
+  [
+    "对话列表、历史记录",
+    "Conversation List, History"
+  ],
+  [
+    "流式回复",
+    "Streamed Reply"
+  ],
+  [
+    "金额",
+    "Amount"
+  ],
+  [
+    "手机号脱敏",
+    "Mobile number desensitization"
+  ],
+  [
+    "姓名脱敏",
+    "Name desensitization"
+  ],
+  [
+    "邮箱脱敏",
+    "Email desensitization"
+  ],
+  [
+    "银行卡脱敏",
+    "Bank card desensitization"
+  ],
+  [
+    "自定义脱敏字符",
+    "Custom desensitization characters"
+  ],
+  [
+    "主要",
+    "Main"
+  ],
+  [
+    "危险",
+    "Dangerous"
+  ],
+  [
+    "信息",
+    "Information"
+  ],
+  [
+    "邮件",
+    "Mail"
+  ],
+  [
+    "文件",
+    "File"
+  ],
+  [
+    "可关闭",
+    "Can be closed"
+  ],
+  [
+    "镂空",
+    "Hollowed out"
+  ],
+  [
+    "自定义无圆角",
+    "Custom non-rounded corners"
+  ],
+  [
+    "不同裁剪",
+    "Different cropping"
+  ],
+  [
+    "点击可预览",
+    "Click to preview"
+  ],
+  [
+    "失败时显示",
+    "Display when failed"
+  ],
+  [
+    "自定义圆角",
+    "Custom rounded corners"
+  ],
+  [
+    "设置颜色",
+    "Set color"
+  ],
+  [
+    "设置大小",
+    "Set size"
+  ],
+  [
+    "多选",
+    "Multiple Selection"
+  ],
+  [
+    "限制 3 个",
+    "Limit to 3"
+  ],
+  [
+    "边框",
+    "Border"
+  ],
+  [
+    "显示字数",
+    "Display Word Count"
+  ],
+  [
+    "自动增高",
+    "Auto-increase Height"
+  ],
+  [
+    "其他颜色",
+    "Other Color"
+  ],
+  [
+    "大一点",
+    "Bigger"
+  ],
+  [
+    "正方形",
+    "Square"
+  ],
+  [
+    "范围选择",
+    "Range Selection"
+  ],
+  [
+    "显示值",
+    "Display Value"
+  ],
+  [
+    "步长10",
+    "Step 10"
+  ],
+  [
+    "滑块大点",
+    "Bigger Slider"
+  ],
+  [
+    "换个颜色",
+    "Change Color"
+  ],
+  [
+    "最大50",
+    "Max 50"
+  ],
+  [
+    "自定义触发器",
+    "Custom Trigger"
+  ],
+  [
+    "打开选择器",
+    "Open Selector"
+  ],
+  [
+    "多列",
+    "Multiple Columns"
+  ],
+  [
+    "通过 children 配置多级数据，并使用 column-count 参数指定显示的列数",
+    "Configure multi-level data through children, and use the column-count parameter to specify the number of columns to display"
+  ],
+  [
+    "弹窗中使用",
+    "Used in Pop-up Window"
+  ],
+  [
+    "打开",
+    "Open"
+  ],
+  [
+    "邀请好友",
+    "Invite Friends"
+  ],
+  [
+    "设置",
+    "Settings"
+  ],
+  [
+    "开发中，敬请期待",
+    "Under development, stay tuned"
+  ],
+  [
+    "基础组件",
+    "Basic Components"
+  ],
+  [
+    "文本",
+    "Text"
+  ],
+  [
+    "按钮",
+    "Button"
+  ],
+  [
+    "图片",
+    "Image"
+  ],
+  [
+    "图标",
+    "Icon"
+  ],
+  [
+    "标签",
+    "Label"
+  ],
+  [
+    "表单组件",
+    "Form Components"
+  ],
+  [
+    "表单验证",
+    "Form Validation"
+  ],
+  [
+    "输入框",
+    "Input Box"
+  ],
+  [
+    "文本域",
+    "Text Area"
+  ],
+  [
+    "计数器",
+    "Counter"
+  ],
+  [
+    "口令输入",
+    "Password Input"
+  ],
+  [
+    "键盘",
+    "Keyboard"
+  ],
+  [
+    "单选框",
+    "Radio Box"
+  ],
+  [
+    "多选框",
+    "Checkbox"
+  ],
+  [
+    "开关",
+    "Switch"
+  ],
+  [
+    "评分",
+    "Rating"
+  ],
+  [
+    "起投金额1000元",
+    "Minimum investment amount: 1000 yuan"
+  ],
+  [
+    "立即申购",
+    "Apply now"
+  ],
+  [
+    "禁用切换按钮",
+    "Disable switch button"
+  ],
+  [
+    "动态内容",
+    "Dynamic content"
+  ],
+  [
+    "自定义高度",
+    "Custom height"
+  ],
+  [
+    "多页数",
+    "Multiple pages"
+  ],
+  [
+    "上一页",
+    "Previous page"
+  ],
+  [
+    "下一页",
+    "Next page"
+  ],
+  [
+    "横向滚动",
+    "Horizontal scroll"
+  ],
+  [
+    "纵向滚动",
+    "Vertical scroll"
+  ],
+  [
+    "快一点",
+    "Faster"
+  ],
+  [
+    "暂停",
+    "Pause"
+  ],
+  [
+    "内容靠左",
+    "Content aligned left"
+  ],
+  [
+    "QQ",
+    "QQ"
+  ],
+  [
+    "带箭头",
+    "With arrow"
+  ],
+  [
+    "余额",
+    "Balance"
+  ],
+  [
+    "带图片",
+    "With picture"
+  ],
+  [
+    "神仙都没用",
+    "Even gods are useless"
+  ],
+  [
+    "折叠",
+    "Fold"
+  ],
+  [
+    "可滑动",
+    "Scrollable"
+  ],
+  [
+    "滑块",
+    "Slider"
+  ],
+  [
+    "选择器",
+    "Selector"
+  ],
+  [
+    "日期选择器",
+    "Date Picker"
+  ],
+  [
+    "时间选择器",
+    "Time Picker"
+  ],
+  [
+    "级联选择器",
+    "Cascader"
+  ],
+  [
+    "文件上传",
+    "File Upload"
+  ],
+  [
+    "日历",
+    "Calendar"
+  ],
+  [
+    "布局组件",
+    "Layout Component"
+  ],
+  [
+    "弹性布局",
+    "Flexbox"
+  ],
+  [
+    "标签页",
+    "Tab"
+  ],
+  [
+    "折叠面板",
+    "Collapse Panel"
+  ],
+  [
+    "吸顶",
+    "Sticky"
+  ],
+  [
+    "导航栏",
+    "Navigation Bar"
+  ],
+  [
+    "底部视图",
+    "Bottom View"
+  ],
+  [
+    "悬浮视图",
+    "Floating View"
+  ],
+  [
+    "底部导航栏",
+    "Bottom Navigation Bar"
+  ],
+  [
+    "数据展示",
+    "Data Display"
+  ],
+  [
+    "查看更多",
+    "View More"
+  ],
+  [
+    "列表",
+    "List"
+  ],
+  [
+    "列表视图",
+    "ListView"
+  ],
+  [
+    "语言合成",
+    "Language Synthesis"
+  ],
+  [
+    "语音识别",
+    "Speech Recognition"
+  ],
+  [
+    "其他",
+    "Other"
+  ],
+  [
+    "文件管理",
+    "File Management"
+  ],
+  [
+    "该模板正在开发中",
+    "This template is under development"
+  ],
+  [
+    "未登录",
+    "Not logged in"
+  ],
+  [
+    "总点击",
+    "Total clicks"
+  ],
+  [
+    "赞",
+    "Likes"
+  ],
+  [
+    "收藏",
+    "Collections"
+  ],
+  [
+    "粉丝",
+    "Fans"
+  ],
+  [
+    "接单模式",
+    "Order receiving mode"
+  ],
+  [
+    "已关闭",
+    "Closed"
+  ],
+  [
+    "消息通知",
+    "Message notifications"
+  ],
+  [
+    "待支付",
+    "Pending payment"
+  ],
+  [
+    "未发货",
+    "Not shipped"
+  ],
+  [
+    "已发货",
+    "Shipped"
+  ],
+  [
+    "售后 / 退款",
+    "After-sales / Refunds"
+  ],
+  [
+    "我的钱包",
+    "My Wallet"
+  ],
+  [
+    "数据看板",
+    "Data dashboard"
+  ],
+  [
+    "历史记录",
+    "History"
+  ],
+  [
+    "已阅读并同意",
+    "Read and Agree"
+  ],
+  [
+    "用户协议",
+    "User Agreement"
+  ],
+  [
+    "隐私政策",
+    "Privacy Policy"
+  ],
+  [
+    "请先阅读并同意《用户协议》和《隐私政策》",
+    "Please read and agree to the User Agreement and Privacy Policy first"
+  ],
+  [
+    "我的昵称",
+    "My Nickname"
+  ],
+  [
+    "简介",
+    "Bio"
+  ],
+  [
+    "介绍一下自己",
+    "Introduce yourself"
+  ],
+  [
+    "性别",
+    "Gender"
+  ],
+  [
+    "编辑性别",
+    "Edit Gender"
+  ],
+  [
+    "生日",
+    "Birthday"
+  ],
+  [
+    "选择生日",
+    "Select Birthday"
+  ],
+  [
+    "地区",
+    "Region"
+  ],
+  [
+    "选择所在的地区",
+    "Select your region"
+  ],
+  [
+    "选择性别",
+    "Select Gender"
+  ],
+  [
+    "保密",
+    "Keep it private"
+  ],
+  [
+    "男",
+    "Male"
+  ],
+  [
+    "女",
+    "Female"
+  ],
+  [
+    "性别设置成功",
+    "Gender settings successful"
+  ],
+  [
+    "生日设置成功",
+    "Birthday settings successful"
+  ],
+  [
+    "地区设置成功",
+    "Region settings successful"
+  ],
+  [
+    "列表刷新",
+    "List Refresh"
+  ],
+  [
+    "瀑布流",
+    "Waterfall Flow"
+  ],
+  [
+    "轮播图",
+    "Carousel"
+  ],
+  [
+    "跑马灯",
+    "Marquee"
+  ],
+  [
+    "分页",
+    "Pagination"
+  ],
+  [
+    "时间轴",
+    "Timeline"
+  ],
+  [
+    "拖拽",
+    "Drag"
+  ],
+  [
+    "筛选栏",
+    "Filter Bar"
+  ],
+  [
+    "树形结构",
+    "Tree Structure"
+  ],
+  [
+    "状态组件",
+    "Status Component"
+  ],
+  [
+    "角标",
+    "Badge"
+  ],
+  [
+    "通知栏",
+    "Notification Bar"
+  ],
+  [
+    "倒计时",
+    "Countdown"
+  ],
+  [
+    "数字滚动",
+    "Digital Scrolling"
+  ],
+  [
+    "进度条",
+    "Progress Bar"
+  ],
+  [
+    "圆形进度条",
+    "Circular Progress Bar"
+  ],
+  [
+    "骨架图",
+    "Skeleton Screen"
+  ],
+  [
+    "加载更多",
+    "Load More"
+  ],
+  [
+    "反馈组件",
+    "Feedback Component"
+  ],
+  [
+    "操作菜单",
+    "Operation Menu"
+  ],
+  [
+    "换个样式",
+    "Change Style"
+  ],
+  [
+    "不显示图标",
+    "Hide Icon"
+  ],
+  [
+    "其他样式",
+    "Other Styles"
+  ],
+  [
+    "数字键盘",
+    "Numeric Keyboard"
+  ],
+  [
+    "打开键盘",
+    "Open Keyboard"
+  ],
+  [
+    "是否显示输入值",
+    "Show Input Value"
+  ],
+  [
+    "输入即绑定",
+    "Input Binding"
+  ],
+  [
+    "身份证键盘",
+    "ID Card Keyboard"
+  ],
+  [
+    "密码键盘",
+    "Password Keyboard"
+  ],
+  [
+    "是否加密",
+    "Encryption"
+  ],
+  [
+    "车牌号键盘",
+    "License Plate Keyboard"
+  ],
+  [
+    "数字输入",
+    "Numeric Input"
+  ],
+  [
+    "密码输入",
+    "Password Input"
+  ],
+  [
+    "可清除",
+    "Clearable"
+  ],
+  [
+    "左右插槽",
+    "Left and Right Slots"
+  ],
+  [
+    "保留精度",
+    "Retain Precision"
+  ],
+  [
+    "精度",
+    "Precision"
+  ],
+  [
+    "左图标",
+    "Left Icon"
+  ],
+  [
+    "右图标",
+    "Right Icon"
+  ],
+  [
+    "自动聚焦",
+    "Auto Focus"
+  ],
+  [
+    "ID",
+    "ID"
+  ],
+  [
+    "用户信息",
+    "User Information"
+  ],
+  [
+    "跳转",
+    "Jump"
+  ],
+  [
+    "带参数",
+    "With Parameters"
+  ],
+  [
+    "需登录",
+    "Need to Log in"
+  ],
+  [
+    "标题",
+    "Title"
+  ],
+  [
+    "插槽",
+    "Slot"
+  ],
+  [
+    "使用 PT 自定义颜色",
+    "Use PT to Customize Color"
+  ],
+  [
+    "自定义返回图标",
+    "Customize Return Icon"
+  ],
+  [
+    "禁用返回按钮",
+    "Disable Return Button"
+  ],
+  [
+    "自定义返回路径",
+    "Customize Return Path"
+  ],
+  [
+    "自定义标题内容",
+    "Customize Title Content"
+  ],
+  [
+    "显示滑块",
+    "Show Slider"
+  ],
+  [
+    "添加间距",
+    "Add Spacing"
+  ],
+  [
+    "横向填充",
+    "Horizontal Fill"
+  ],
+  [
+    "适用于标签数量不多的情况",
+    "Suitable for the Case of Few Labels"
+  ],
+  [
+    "居中",
+    "Center"
+  ],
+  [
+    "单个禁用",
+    "Single Disable"
+  ],
+  [
+    "显示下划线",
+    "Show Underline"
+  ],
+  [
+    "禁用",
+    "Disable"
+  ],
+  [
+    "首页",
+    "Home"
+  ],
+  [
+    "音乐",
+    "Music"
+  ],
+  [
+    "睡眠",
+    "Sleep"
+  ],
+  [
+    "我的",
+    "Mine"
+  ],
+  [
+    "取消订单",
+    "Cancel Order"
+  ],
+  [
+    "立即购买",
+    "Buy Now"
+  ],
+  [
+    "确认收货",
+    "Confirm Receipt"
+  ],
+  [
+    "评价",
+    "Evaluate"
+  ],
+  [
+    "禁用状态，无法拖拽",
+    "Disabled, cannot be dragged"
+  ],
+  [
+    "不吸附边缘，任意位置可拖拽",
+    "Does not adsorb to the edge, can be dragged anywhere"
+  ],
+  [
+    "这是一个提示",
+    "This is a tip"
+  ],
+  [
+    "左间隔",
+    "Left interval"
+  ],
+  [
+    "右移动",
+    "Move right"
+  ],
+  [
+    "左移动",
+    "Move left"
+  ],
+  [
+    "多个数据",
+    "Multiple data"
+  ],
+  [
+    "点击收起",
+    "Click to collapse"
+  ],
+  [
+    "点击展开",
+    "Click to expand"
+  ],
+  [
+    "ref 方式调用",
+    "Call by ref method"
+  ],
+  [
+    "自定义图标、文字、大小",
+    "Customize icon, text, size"
+  ],
+  [
+    "请上传您的证件照",
+    "Please upload your ID photo"
+  ],
+  [
+    "左滑编辑",
+    "Swipe left to edit"
+  ],
+  [
+    "编辑",
+    "Edit"
+  ],
+  [
+    "右滑删除",
+    "Swipe right to delete"
+  ],
+  [
+    "账号",
+    "Account"
+  ],
+  [
+    "我的订单",
+    "My Orders"
+  ],
+  [
+    "我的收藏",
+    "My Favorites"
+  ],
+  [
+    "筛选",
+    "Filter"
+  ],
+  [
+    "长按项即可拖动排序",
+    "Long press on an item to drag and sort"
+  ],
+  [
+    "单列排序",
+    "Single column sorting"
+  ],
+  [
+    "不需要长按",
+    "No need to long press"
+  ],
+  [
+    "结合列表使用",
+    "Use in combination with list"
+  ],
+  [
+    "多列排序",
+    "Multi-column sorting"
+  ],
+  [
+    "结合图片使用",
+    "Use in combination with images"
+  ],
+  [
+    "禁用手势",
+    "Disable gestures"
+  ],
+  [
+    "自定义样式2",
+    "Custom style 2"
+  ],
+  [
+    "无图片",
+    "No image"
+  ],
+  [
+    "圆角",
+    "Rounded corners"
+  ],
+  [
+    "自定义大小",
+    "Custom size"
+  ],
+  [
+    "省略号",
+    "Ellipsis"
+  ],
+  [
+    "多行省略号",
+    "Multi-line ellipsis"
+  ],
+  [
+    "请输入验证码",
+    "Please enter the verification code"
+  ],
+  [
+    "登录",
+    "Login"
+  ],
+  [
+    "购物车 ({num})",
+    "Shopping Cart ({num})"
+  ],
+  [
+    "完成",
+    "Complete"
+  ],
+  [
+    "管理",
+    "Manage"
+  ],
+  [
+    "删除",
+    "Delete"
+  ],
+  [
+    "全选",
+    "Select All"
+  ],
+  [
+    "合计",
+    "Total"
+  ],
+  [
+    "去结算",
+    "Go to Checkout"
+  ],
+  [
+    "温馨提示",
+    "温馨提示"
+  ],
+  [
+    "确定删除该商品吗？",
+    "Are you sure to delete this item?"
+  ],
+  [
+    "删除成功",
+    "Delete successfully"
+  ],
+  [
+    "请先选择商品",
+    "Please select an item first"
+  ],
+  [
+    "确定删除选中的商品吗？",
+    "Are you sure to delete the selected items?"
+  ],
+  [
+    "您需支付 {price} 元，请确认支付",
+    "You need to pay {price} yuan. Please confirm the payment"
+  ],
+  [
+    "支付成功",
+    "Payment successfully"
+  ],
+  [
+    "已设为默认",
+    "Set as default"
+  ],
+  [
+    "设为默认",
+    "Set as default"
+  ],
+  [
+    "修改",
+    "Modify"
+  ],
+  [
+    "添加地址",
+    "Add address"
+  ],
+  [
+    "集成 iconfont 与 remixicon 图标库，展示部分示例",
+    "Integrate iconfont and remixicon icon libraries and display some examples"
+  ],
+  [
+    "iconfont",
+    "iconfont"
+  ],
+  [
+    "remixicon",
+    "remixicon"
+  ],
+  [
+    "复制成功",
+    "Copied successfully"
+  ],
+  [
+    "普通",
+    "Normal"
+  ],
+  [
+    "浅色",
+    "Light"
+  ],
+  [
+    "深色",
+    "Dark"
+  ],
+  [
+    "只显示图标",
+    "Show only icons"
+  ],
+  [
+    "文本模式",
+    "Text mode"
+  ],
+  [
+    "带边框",
+    "With border"
+  ],
+  [
+    "圆角按钮",
+    "Rounded button"
+  ],
+  [
+    "带左侧图标",
+    "With left icon"
+  ],
+  [
+    "小",
+    "Small"
+  ],
+  [
+    "默认",
+    "Default"
+  ],
+  [
+    "大",
+    "Large"
+  ],
+  [
+    "模板",
+    "Template"
+  ],
+  [
+    "编辑资料",
+    "Edit profile"
+  ],
+  [
+    "Text 文本",
+    "Text text"
+  ],
+  [
+    "Button 按钮",
+    "Button button"
+  ],
+  [
+    "Image 图片",
+    "Image image"
+  ],
+  [
+    "重置",
+    "Reset"
+  ],
+  [
+    "提交",
+    "Submit"
+  ],
+  [
+    "未知",
+    "Unknown"
+  ],
+  [
+    "篮球",
+    "Basketball"
+  ],
+  [
+    "足球",
+    "Football"
+  ],
+  [
+    "羽毛球",
+    "Badminton"
+  ],
+  [
+    "乒乓球",
+    "Table Tennis"
+  ],
+  [
+    "游泳",
+    "Swimming"
+  ],
+  [
+    "用户名不能为空",
+    "Username cannot be empty"
+  ],
+  [
+    "用户名长度在3-20个字符之间",
+    "Username length should be between 3 and 20 characters"
+  ],
+  [
+    "邮箱不能为空",
+    "Email cannot be empty"
+  ],
+  [
+    "邮箱格式不正确",
+    "Invalid email format"
+  ],
+  [
+    "身高不能为空",
+    "Height cannot be empty"
+  ],
+  [
+    "身高在160-190cm之间",
+    "Height should be between 160 and 190 cm"
+  ],
+  [
+    "体重不能为空",
+    "Weight cannot be empty"
+  ],
+  [
+    "体重在40-100kg之间",
+    "Weight should be between 40 and 100 kg"
+  ],
+  [
+    "标签不能为空",
+    "Tag cannot be empty"
+  ],
+  [
+    "标签最多选择2个",
+    "Maximum 2 tags can be selected"
+  ],
+  [
+    "性别不能为空",
+    "Gender cannot be empty"
+  ],
+  [
+    "出生年月不能为空",
+    "Date of birth cannot be empty"
+  ],
+  [
+    "获取某个单位的开始时间",
+    "Get the start time of a unit"
+  ],
+  [
+    "获取某个单位的结束时间",
+    "Get the end time of a unit"
+  ],
+  [
+    "是否同一天",
+    "Is it the same day"
+  ],
+  [
+    "是否早于",
+    "Is it earlier than"
+  ],
+  [
+    "是否晚于",
+    "Is it later than"
+  ],
+  [
+    "差值",
+    "Difference"
+  ],
+  [
+    "差值（单位）",
+    "Difference (unit)"
+  ],
+  [
+    "选择图片",
+    "Select a picture"
+  ],
+  [
+    "可调节裁剪框大小",
+    "Adjustable crop box size"
+  ],
+  [
+    "预览图片",
+    "Preview picture"
+  ],
+  [
+    "保存图片",
+    "Save picture"
+  ],
+  [
+    "本页面内容由 canvas 渲染生成，是否立即预览图片效果？",
+    "The content of this page is rendered by canvas. Do you want to preview the picture effect immediately?"
+  ],
+  [
+    "基础动画",
+    "Basic animation"
+  ],
+  [
+    "淡入淡出",
+    "Fade in and out"
+  ],
+  [
+    "播放动画",
+    "Play animation"
+  ],
+  [
+    "滑入",
+    "Slide in"
+  ],
+  [
+    "旋转翻转",
+    "Rotate and flip"
+  ],
+  [
+    "摇摆抖动",
+    "Sway and shake"
+  ],
+  [
+    "特殊效果",
+    "Special effects"
+  ],
+  [
+    "组合动画",
+    "Combined animation"
+  ],
+  [
+    "删除地址后无法恢复，确认要删除该地址吗？",
+    "The address cannot be restored after deletion. Are you sure you want to delete this address?"
+  ],
+  [
+    "加载中",
+    "Loading..."
+  ],
+  [
+    "收货人",
+    "Consignee"
+  ],
+  [
+    "请输入收货人姓名",
+    "Please enter the consignee's name"
+  ],
+  [
+    "手机号",
+    "Mobile phone number"
+  ],
+  [
+    "选择省市区",
+    "Select province, city and district"
+  ],
+  [
+    "详细地址",
+    "Detailed address"
+  ],
+  [
+    "小区楼栋、门牌号、村等",
+    "Community building number, house number, village, etc."
+  ],
+  [
+    "默认地址",
+    "Default address"
+  ],
+  [
+    "保存",
+    "Save"
+  ],
+  [
+    "收货人不能为空",
+    "The consignee cannot be empty"
+  ],
+  [
+    "手机号不能为空",
+    "The mobile phone number cannot be empty"
+  ],
+  [
+    "手机号格式不正确",
+    "The mobile phone number format is incorrect"
+  ],
+  [
+    "详细地址不能为空",
+    "The detailed address cannot be empty"
+  ],
+  [
+    "所在地区不能为空",
+    "The location cannot be empty"
+  ],
+  [
+    "保存中",
+    "Saving..."
+  ],
+  [
+    "开启通知",
+    "Enable notifications"
+  ],
+  [
+    "通用设置",
+    "General settings"
+  ],
+  [
+    "通知设置",
+    "Notification settings"
+  ],
+  [
+    "隐私设置",
+    "Privacy settings"
+  ],
+  [
+    "出生年月不大于2010-01-01",
+    "Date of birth must be no greater than 2010-01-01"
+  ],
+  [
+    "联系人不能为空",
+    "Contact person cannot be empty"
+  ],
+  [
+    "提交成功",
+    "Submission successful"
+  ],
+  [
+    "单个 true / false",
+    "Single true/false"
+  ],
+  [
+    "带索引、地区选择",
+    "With index, area selection"
+  ],
+  [
+    "换个分隔符",
+    "Change the delimiter"
+  ],
+  [
+    "列表高度小一点",
+    "Shorter list height"
+  ],
+  [
+    "范围选",
+    "Range selection"
+  ],
+  [
+    "开始 / 结束",
+    "Start/End"
+  ],
+  [
+    "禁用部分日期",
+    "Disable some dates"
+  ],
+  [
+    "日历长列表",
+    "Long calendar list"
+  ],
+  [
+    "打开日历长列表",
+    "Open long calendar list"
+  ],
+  [
+    "日历面板",
+    "Calendar panel"
+  ],
+  [
+    "自定义文案和颜色",
+    "Customize text and color"
+  ],
+  [
+    "显示头",
+    "Show header"
+  ],
+  [
+    "显示星期",
+    "Show week"
+  ],
+  [
+    "显示其他月份",
+    "Show other months"
+  ],
+  [
+    "不同位置",
+    "Different positions"
+  ],
+  [
+    "顶部",
+    "Top"
+  ],
+  [
+    "中间",
+    "Middle"
+  ],
+  [
+    "关闭前钩子",
+    "Pre-close hook"
+  ],
+  [
+    "显示时长",
+    "Display duration"
+  ],
+  [
+    "您即将进行一个重要操作，是否确认继续？",
+    "You are about to perform an important operation. Are you sure to continue?"
+  ],
+  [
+    "操作确认",
+    "Operation confirmation"
+  ],
+  [
+    "您确认要执行删除操作吗？删除后将无法恢复。",
+    "Are you sure you want to perform the delete operation? It cannot be restored after deletion."
+  ],
+  [
+    "您确定要执行删除操作吗？3秒后自动关闭",
+    "Are you sure you want to perform the delete operation? It will automatically close in 3 seconds"
+  ],
+  [
+    "带标题、描述",
+    "With title and description"
+  ],
+  [
+    "无法点击遮罩关闭",
+    "Cannot close by clicking on the mask"
+  ],
+  [
+    "不需要取消按钮",
+    "Do not need a cancel button"
+  ],
+  [
+    "插槽用法",
+    "Slot usage"
+  ],
+  [
+    "反馈",
+    "Feedback"
+  ],
+  [
+    "删除好友会同时删除所有聊天记录",
+    "Deleting a friend will also delete all chat records"
+  ],
+  [
+    "删除好友",
+    "Delete friend"
+  ],
+  [
+    "确定要删除好友吗？",
+    "Are you sure you want to delete the friend?"
+  ],
+  [
+    "点我关闭",
+    "Click me to close"
+  ],
+  [
+    "确定要关闭吗？",
+    "Are you sure you want to close?"
+  ],
+  [
+    "支付宝",
+    "Alipay"
+  ],
+  [
+    "微信",
+    "WeChat"
+  ],
+  [
+    "父子关联",
+    "Parent-child association"
+  ],
+  [
+    "选中值",
+    "Selected value"
+  ],
+  [
+    "选中操作",
+    "Select operation"
+  ],
+  [
+    "选中部分节点",
+    "Select some nodes"
+  ],
+  [
+    "获取选中节点",
+    "Get selected nodes"
+  ],
+  [
+    "获取半选节点",
+    "Get half-selected nodes"
+  ],
+  [
+    "清空选中",
+    "Clear selection"
+  ],
+  [
+    "展开操作",
+    "Expand operation"
+  ],
+  [
+    "展开部分节点",
+    "Expand some nodes"
+  ],
+  [
+    "获取展开节点",
+    "Get expanded nodes"
+  ],
+  [
+    "展开所有",
+    "Expand all"
+  ],
+  [
+    "收起所有",
+    "Collapse all"
+  ],
+  [
+    "注册账户",
+    "Register account"
+  ],
+  [
+    "新用户立享500元体验金",
+    "New users can enjoy a 500 yuan experience fund"
+  ],
+  [
+    "实名认证通过",
+    "Real-name authentication passed"
+  ],
+  [
+    "身份认证成功，开启安全保障",
+    "Identity authentication successful, security guarantee enabled"
+  ],
+  [
+    "银行卡绑定完成",
+    "Bank card binding completed"
+  ],
+  [
+    "成功绑定招商银行储蓄卡，畅享无忧交易",
+    "Successfully bound to China Merchants Bank savings card, enjoy worry-free transactions"
+  ],
+  [
+    "首次资金充值",
+    "First fund recharge"
+  ],
+  [
+    "充值1000元资金到账，准备投资",
+    "1000 yuan recharge funds arrived, ready to invest"
+  ],
+  [
+    "完成首笔投资",
+    "Completed the first investment"
+  ],
+  [
+    "优选灵活配置混合A基金",
+    "Preferred Flexible Allocation Hybrid A Fund"
+  ],
+  [
+    "头像上传成功",
+    "Profile picture uploaded successfully"
+  ],
+  [
+    "编辑昵称",
+    "Edit nickname"
+  ],
+  [
+    "请输入昵称",
+    "Please enter a nickname"
+  ],
+  [
+    "请设置2-20个字符，不包括@<>/等无效字符",
+    "Please set 2 - 20 characters, excluding invalid characters such as @<>/"
+  ],
+  [
+    "确认",
+    "Confirm"
+  ],
+  [
+    "昵称长度需在2-20个字符之间",
+    "Nickname length should be between 2 and 20 characters"
+  ],
+  [
+    "昵称不能包含@<>/等特殊字符",
+    "Nickname cannot contain special characters such as @<>/"
+  ],
+  [
+    "编辑简介",
+    "Edit bio"
+  ],
+  [
+    "简介不能为空",
+    "Bio cannot be empty"
+  ],
+  [
+    "提示",
+    "Tip"
+  ],
+  [
+    "为提供更好的服务，我们邀请您填写昵称、头像等公开信息",
+    "To provide better service, we invite you to fill in public information such as nickname, profile picture, etc."
+  ],
+  [
+    "头像",
+    "Profile picture"
+  ],
+  [
+    "昵称",
+    "Nickname"
+  ],
+  [
+    "点击输入昵称",
+    "Click to enter nickname"
+  ],
+  [
+    "取消",
+    "Cancel"
+  ],
+  [
+    "请上传头像",
+    "Please upload a profile picture"
+  ],
+  [
+    "登录中",
+    "Logging in"
+  ],
+  [
+    "您好，欢迎登录！",
+    "Hello, welcome to log in!"
+  ],
+  [
+    "首次登录将自动为您完成注册",
+    "Your first login will automatically complete registration"
+  ],
+  [
+    "请输入手机号",
+    "Please enter your mobile number"
+  ]
+]
